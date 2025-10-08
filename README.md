@@ -29,6 +29,8 @@ Choose a plant in the world. Working off a reference, design a grammar that mimi
 | :--: | :--: |
 
 *Mimic L-System:*
+<img width="2482" height="1009" alt="image" src="https://github.com/user-attachments/assets/9ce3bb33-5971-4661-a908-226e27ee8353" />
+
 
 ## Submission
 - Create a pull request against this repository
