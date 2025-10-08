@@ -24,8 +24,9 @@ How about this one? Take a screenshot of your rules.\
 ## 3. Custom plant
 Choose a plant in the world. Working off a reference, design a grammar that mimics the structure of that plant. Unlike our simple puzzles, please use multiple rules for greater complexity. Think carefully about the structure of your grammar! EXPLAIN the structure of your plant in the README. What are the components? What do each of the rules do? Be sure to also include images of a few iterations of your output plant. <br>
 
-*Reference:*<br>
-<img width="689" height="673" alt="image" src="https://github.com/user-attachments/assets/db60b981-2086-4dcd-87a6-4a27879ee417" />
+*References:*<br>
+| <img width="689" height="673" alt="image" src="https://github.com/user-attachments/assets/db60b981-2086-4dcd-87a6-4a27879ee417" /> | <img width="395" height="801" alt="image" src="https://github.com/user-attachments/assets/5f1cff98-b881-4286-b9e4-41c561f2cd30" /> |
+| :--: | :--: |
 
 *Mimic L-System:*
 
