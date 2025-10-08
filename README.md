@@ -5,7 +5,10 @@ Let's practice using grammars! For this lab, please pull up the L-system node in
 Look at these iterations (n = 1, 2, 3) of a one-rule grammar. Using the built in symbols in Houdini, design a grammar that produces this output. Take a screenshot of your rules.\
 <img width="200" alt="square1" src="https://user-images.githubusercontent.com/1758825/193949661-a3a0e1f7-7d68-4b9e-8384-d9991e1e9fd2.png">
 <img width="200" alt="square2" src="https://user-images.githubusercontent.com/1758825/193949853-cf2306b3-3537-4c24-91b5-0a3083bc87c0.png">
-<img width="200" alt="square3" src="https://user-images.githubusercontent.com/1758825/193949859-5e432b4b-f18d-48b5-a9e9-8d7dba255955.png">
+<img width="200" alt="square3" src="https://user-images.githubusercontent.com/1758825/193949859-5e432b4b-f18d-48b5-a9e9-8d7dba255955.png"> <br>
+*Submission:*
+<img width="2478" height="957" alt="image" src="https://github.com/user-attachments/assets/adda035f-e913-4218-bfca-730ff6ff08f7" />
+
 
 ## 2. Square grammar puzzle
 How about this one? Take a screenshot of your rules.\
